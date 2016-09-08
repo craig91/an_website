@@ -1,2 +1,2 @@
-# an_website
-Ayuka's First Website
+# Ayuka's First Website
+Personal portfolio website
